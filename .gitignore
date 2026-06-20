@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Original external data
+import/input/adjusted_productivity.csv
+
+# Large generated arrays
+*.npy
+*.npz
