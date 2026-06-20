@@ -1,9 +1,0 @@
-source,aggregation,metric,value
-empirical,full_career,gini,0.36862356898977033
-empirical,full_career,top_1_percent_share,0.042119377451766256
-empirical,full_career,top_5_percent_share,0.16082397035321488
-empirical,full_career,top_10_percent_share,0.2665646755299221
-simulated,full_career,gini,0.2892611001488745
-simulated,full_career,top_1_percent_share,0.03694146033230294
-simulated,full_career,top_5_percent_share,0.13225634971635755
-simulated,full_career,top_10_percent_share,0.22498815708659992
