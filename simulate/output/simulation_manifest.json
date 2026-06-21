@@ -1,0 +1,10 @@
+{
+  "model": "ARW4",
+  "model_tag": "arw4",
+  "created_utc": "2026-06-21T00:54:18.536007+00:00",
+  "seed": 63,
+  "n": 10000,
+  "Y": 20,
+  "fit": "/Users/samlunemagid/Desktop/mean_reversion_repo/simulate/input/arw4_fit.json",
+  "trajectories": "/Users/samlunemagid/Desktop/mean_reversion_repo/simulate/output/trajectories.npy"
+}

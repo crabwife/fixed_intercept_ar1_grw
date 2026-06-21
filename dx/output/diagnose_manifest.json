@@ -1,0 +1,8 @@
+{
+  "model": "ARW4",
+  "model_tag": "arw4",
+  "created_utc": "2026-06-21T00:56:26.640545+00:00",
+  "empirical_complete": 681,
+  "simulated": 10000,
+  "simulation_manifest": "/Users/samlunemagid/Desktop/mean_reversion_repo/dx/input/simulation_manifest.json"
+}

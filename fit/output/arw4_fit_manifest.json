@@ -1,0 +1,12 @@
+{
+  "model": "ARW4",
+  "model_tag": "arw4",
+  "created_utc": "2026-06-21T01:07:00.294425+00:00",
+  "input": "/Users/samlunemagid/Desktop/mean_reversion_repo/fit/input/productivity_transitions.csv",
+  "rows": 34109,
+  "selected_cutoffs": [
+    1,
+    5,
+    11
+  ]
+}
